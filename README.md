@@ -28,3 +28,7 @@ To run the simulation simply run:
 ```bash
   python smart-dots.py
   ```
+
+## TODO
+
+Sometimes dots reach a position that the best dot goes through in less steps, then for example they die by crashing on the walls, it would be interesting to try to optimize the best dot's directions so that it doesn't waste any time moving around and goes as straight as possible toward the goal.
