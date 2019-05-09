@@ -28,7 +28,7 @@ data_font = pygame.font.SysFont('Comic Sans MS', 30)
 # SIMULATION VARIABLES
 simulation_over = False
 pop_coord = (1250, 350)
-square_side = 3
+dot_side = 3
 step_len = 15
 n_steps = 600
 goal_coord = (10, 350)
